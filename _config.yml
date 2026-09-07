@@ -26,11 +26,12 @@ author:
   avatar           : "profile_photo3.jpeg"
   name             : "Afif T. Hakim, S.T., M.Sc."
   pronouns         : "He/Him"  
-  bio              : "Lecturer and Researcher in River and Coastal Engineering"
+  bio              : "Lecturer and Researcher in River and Coastal Engineering, Civil Engineering Department"
   location         : "Balikpapan, East Kalimantan"
   employer         : "Kalimantan Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  personal email   : "avfhakim@gmail.com" 
+  university email : "afif.hakim@lecturer.itk.ac.id" 
 
   # Academic websites
   academia         : # URL
