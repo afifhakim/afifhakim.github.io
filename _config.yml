@@ -23,7 +23,7 @@ repository               : "afifhakim/afifhakim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.png"
+  avatar           : "profile_photo2.png"
   name             : "Afif T. Hakim, S.T., M.Sc."
   pronouns         : "He/Him"  
   bio              : "Lecturer and Researcher in River and Coastal Engineering"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1cO0eH0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
@@ -56,15 +56,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/avfhakim"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
