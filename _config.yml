@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Each time, a positive delta"
+title                    : "Afif's Front Page"
 title_separator          : "|"
 name                     : &name "Afif Hakim"
 description              : &description "Civil Engineering specialized in River and Coastal Engineering"   # Update this with a general description of your site, this is the default if not overridden by a page
