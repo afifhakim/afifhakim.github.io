@@ -23,10 +23,10 @@ repository               : "afifhakim/afifhakim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Afif hakim_photo.jpg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Lecturer and Researcher"
+  pronouns         : "He/Him"  
+  bio              : "Lecturer and Researcher in River and Coastal Engineering"
   location         : "Balikpapan, East Kalimantan"
   employer         : "Kalimantan Institute of Technology"
   uri              : # URL
