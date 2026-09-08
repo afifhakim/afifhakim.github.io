@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Afif Taufiiqul Hakim, a civil engineer, lecturer, researcher, and trainer in river and coastal engineering. My journey started with a Bachelor’s degree in Water Resources Engineering at Universitas Brawijaya, where I was fortunate to learn from teachers who sparked my curiosity about water and engineering. After graduating, I worked as a practitioner at PLTA Poso with PT Poso Energy (Bukaka Group). Seeing a real dam, reservoir, and river system up close changed my perspective—a dam was no longer just something in a textbook; it was a very large structure holding a lot of water! 😄
+Hi, I’m Afif.
 
-That experience encouraged me to continue my study at the University of Twente, followed by an opportunity to learn and work with Deltares, where I became even more interested in numerical modelling and understanding real water systems.
+I’m a Water Resources Engineer, lecturer, researcher, and trainer specializing in river and coastal engineering. My journey began with a Bachelor’s degree in Water Resources Engineering at Universitas Brawijaya, followed by professional experience at Poso Hydropower, where I gained firsthand experience with dams, reservoirs, and river systems.
 
-Today, I continue this journey as a lecturer and researcher at Institut Teknologi Kalimantan, while actively conducting workshops and technical training to share what I have learned.
+I later pursued my studies at the University of Twente and had the opportunity to learn and work with Deltares in Delft, The Netherlands, deepening my interest in numerical modelling and real-world water systems.
 
-I am particularly interested in hydrology, hydraulics, sediment transport, hydrodynamics, morphodynamics, and numerical modelling, and in understanding how water, infrastructure, sediment, and nature interact.
+Today, I am a lecturer and researcher at Institut Teknologi Kalimantan, while actively sharing knowledge through technical workshops and training. I have delivered virtual training sessions (more than 50 trainings, hundreds of participants) in Indonesia, helping students and practitioners explore tools (e.g., Delft3D, HEC-RAS, SWMM, HEC-HMS, and QGIS) and concepts in water resources and engineering.
 
-Above all, I am grateful to the teachers, colleagues, mentors, and students who have been part of this journey—and I am still trying to figure out why water always finds a way to make things complicated.
+My interests include hydrology, hydraulics, sediment transport, hydrodynamics, morphodynamics, and numerical modelling, particularly in understanding how water, infrastructure, sediment, and nature interact. 
+
+Still learning, still modelling, and still discovering why water always finds a way to make things complicated. Thanks for visiting my webpage!
 
 This Website
 ======
