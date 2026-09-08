@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Wave Theory in Coastal Engineering Course"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2026-coastal_engineering
+venue: "Kalimantan Institute of Technology, Civil Engineering Department"
+date: 2026-09-08
+location: "Balikpapan, Indonesia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
