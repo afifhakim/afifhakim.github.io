@@ -8,7 +8,7 @@ date: 2026-09-16
 location: "Balikpapan, Indonesia"
 ---
 
-This research will be presented at the **Borneo International Conference (BICAME)** on September 16, 2026.
+This research will be presented at the **Borneo International Conference (BICAME) 6th 2026** on September 16, 2026.
 
 Reservoir operation can alter downstream flow conditions and influence river morphology through changes in erosion, deposition, and sediment transport. This study evaluates the short-term morphological response of the Tengin River downstream of the Sepaku Semoi Dam under different operational discharge conditions.
 
