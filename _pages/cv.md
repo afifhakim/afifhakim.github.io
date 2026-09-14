@@ -9,7 +9,7 @@ author_profile: true
 
 Education
 ======
-* **M.Sc. in Civil Engineering and Management — Water Engineering and Management**, University of Twente, The Netherlands
+* **M.Sc. in Civil Engineering and Management, Water Engineering and Management**, University of Twente, The Netherlands (Funded by StuNed Scholarship Batch 2021)
 * **S.T. (B.Eng. equivalent) in Water Resources Engineering**, University of Brawijaya, Indonesia
 
 Work Experience
