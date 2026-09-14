@@ -5,10 +5,8 @@ type: "Talk"
 permalink: /talks/2026-09-16-tengin-river-flow-regulation
 venue: "Borneo International Conference (BICAME 6th 2026)"
 date: 2026-09-16
-location: "Borneo, Indonesia"
+location: "Balikpapan, Indonesia"
 ---
-
-### Coming Soon
 
 This research will be presented at the **Borneo International Conference (BICAME)** on September 16, 2026.
 
