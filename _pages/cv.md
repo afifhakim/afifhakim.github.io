@@ -37,9 +37,9 @@ Skills
 
 Languages
 ======
-* Bahasa Indonesia — Native
-* English — C1
-* Dutch — A2
+* Bahasa Indonesia - Native
+* English - C1
+* Dutch - A2
 
 Honours & Awards
 ======
