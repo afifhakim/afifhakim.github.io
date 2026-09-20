@@ -4,7 +4,7 @@ title: "Research Graduation Project (Skripsi) for Bachelor Degree Student in Civ
 author_profile: true
 ---
 
-### Available Graduation Research Topics
+### Available Graduation Research Topics 2026
 
 Several research topics are currently available for undergraduate students
 in Civil Engineering, Kalimantan Institute of Technology.
