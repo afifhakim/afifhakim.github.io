@@ -1,10 +1,10 @@
 ---
 permalink: /vacantresearch/
-title: "Topik Penelitian Tugas Akhir (Skripsi) Mahasiswa Program Studi Teknik Sipil, Institut Teknologi Kalimantan"
+title: "Vacant BSc (Skripsi) Research Project"
 author_profile: true
 ---
 
-### Daftar Topik Penelitian Tugas Akhir (Skripsi)
+### Daftar Topik Penelitian Tugas Akhir (Skripsi) Tahun 2026-2027
 
 Berikut merupakan beberapa topik penelitian yang tersedia bagi mahasiswa
 Program Studi Teknik Sipil, Institut Teknologi Kalimantan.
