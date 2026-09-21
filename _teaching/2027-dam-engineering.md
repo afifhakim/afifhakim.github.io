@@ -1,5 +1,5 @@
 ---
-title: "Dam Engineering"
+title: "Lecture: Dam Engineering"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2026-dam-engineering
