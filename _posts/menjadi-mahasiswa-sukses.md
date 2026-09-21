@@ -2,7 +2,7 @@
 title: 'Bagaimana Menjadi Mahasiswa Sukses di Era Sekarang?'
 date: 2026-09-21
 permalink: /posts/2026/09/mahasiswa-sukses/
-tags:
+tags: study
 ---
 
 Kalau saya harus kembali ke masa lalu, pada saat kuliah S1, mungkin akan lebih banyak lagi hal yang saya lakukan.
