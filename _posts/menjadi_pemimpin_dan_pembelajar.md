@@ -2,7 +2,7 @@
 title: 'Menjadi Pemimpin dan Pembelajar'
 date: 2026-09-14
 permalink: /posts/2026/09/menjadi-pemimpin-dan-pembelajar/
-tags:
+tags: study
 ---
 
 Belajar bukan berarti duduk dan membuka buku seharian, membuka lembar demi lembar halaman, memusingkan otak hingga energi terkuras habis. Belajar juga bukan hanya tentang nilai, gelar, atau sertifikat.
