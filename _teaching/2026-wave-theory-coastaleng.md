@@ -1,5 +1,5 @@
 ---
-title: "Wave Theory in Coastal Engineering Course"
+title: "Coastal Engineering (Teknik Pantai)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-coastal_engineering
