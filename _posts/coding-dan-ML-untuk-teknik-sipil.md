@@ -1,7 +1,7 @@
 ---
 title: 'Tips Memulai Coding dan Machine Learning untuk Engineer dan Mahasiswa Teknik Sipil'
 date: 2026-09-14
-permalink: /posts/2026/09/blog-post-4-coding/
+permalink: /posts/2026/09/ml-enginer-and-mahasiswa/
 tags: study
 ---
 Bagi engineer atau mahasiswa Teknik Sipil, Teknik Pengairan, maupun Teknik Sumber Daya Air yang ingin mulai belajar coding dan machine learning, berikut beberapa langkah sederhana.
