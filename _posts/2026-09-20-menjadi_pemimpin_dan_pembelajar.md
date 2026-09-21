@@ -1,6 +1,6 @@
 ---
 title: 'Menjadi Pemimpin dan Pembelajar'
-date: 2026-09-14
+date: 2026-09-20
 permalink: /posts/2026/09/menjadi-pemimpin-dan-pembelajar/
 tags: study
 ---
