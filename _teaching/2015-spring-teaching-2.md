@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Dam Engineering"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecturing"
+permalink: /teaching/2026-dam-engineering
+venue: "Kalimantan Institute of Technology, Civil Engineering"
+date: 2027-03-01
+location: "Balikpapan, Indonesia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
