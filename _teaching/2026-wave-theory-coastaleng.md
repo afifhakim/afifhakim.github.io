@@ -1,5 +1,5 @@
 ---
-title: "Coastal Engineering (Teknik Pantai)"
+title: "Lecture: Coastal Engineering (Teknik Pantai)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-coastal_engineering
