@@ -1,7 +1,7 @@
 ---
 title: 'Bagaimana Menjadi Mahasiswa Sukses di Era Sekarang?'
 date: 2026-09-21
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2026/09/mahasiswa-sukses/
 tags:
 ---
 
