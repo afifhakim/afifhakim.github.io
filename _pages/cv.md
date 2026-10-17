@@ -43,6 +43,7 @@ Languages
 
 Honours & Awards
 ======
+* Best Presenter, The 9th International Conference on Tropical Studies and Its Applications (ICTROPS 2026)
 * 3rd Best Presenter, International Conference on Forest City
 * 1st Winner, Poster Session – Fundamental Research, WINNER
 * StuNed Scholarship, Netherlands Government
