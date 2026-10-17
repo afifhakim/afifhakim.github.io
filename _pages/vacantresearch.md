@@ -27,11 +27,13 @@ Mohon mencantumkan **nama, NIM, dan topik penelitian yang diminati** pada email.
 |:---:|---|---|:---:|:---:|---|
 | **1** | **Pola Erosi dan Sedimentasi Sungai Tengin dengan Variasi Debit Akibat Operasi Bendungan Sepaku Semoi** | Delft3D | Dio Imananda Putra | **Diambil** | Tidak Tersedia |
 | **2** | **Perencanaan Normalisasi untuk Pengendalian Banjir di Sungai Tengin dengan Menggunakan HEC-RAS** | HEC-RAS 1D/2D | M. Zhendra Azhari | **Diambil** | Tidak Tersedia |
-| **3** | **Pemodelan Gelombang dan Alternatif Pengendalian Gelombang Ekstrem di Pesisir Balikpapan Menggunakan Delft3D / Delft3D-FM** | Delft3D / Delft3D-FM, Pemodelan Gelombang | — | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_1) |
-| **4** | **Optimasi Operasi Waduk Sepaku Semoi untuk Ketahanan Air Baku di IKN** | HEC-ResSim, Operasi Waduk | — | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_2) |
-| **5** | **Kajian Potensi Coastal Reservoir sebagai Alternatif Sumber Air Baku Kota Balikpapan** | Delft3D / Delft3D-FM, Pemodelan Hidrodinamika | — | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_3) |
-| **6** | **Analisis Konsentrasi dan Distribusi Sedimen di Muara Sungai Riko** | Pengukuran Lapangan, GIS, Delft3D / Delft3D-FM | — | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_4) |
-| **7** | **Analisis Potensi Erosi dan Sedimentasi Hilir Sungai Mahakam akibat Perubahan Debit pada Kondisi Kekeringan** | HEC-RAS 2D, Delft3D / Delft3D-FM, GIS | — | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_5) |
+| **3** | **Pemodelan Gelombang dan Alternatif Pengendalian Gelombang Ekstrem di Pesisir Balikpapan Menggunakan Delft3D / Delft3D-FM** | Delft3D / Delft3D-FM, Pemodelan Gelombang | Farid Safarullah Ilham | **Diambil** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_1) |
+| **4** | **Optimasi Operasi Waduk Sepaku Semoi untuk Ketahanan Air Baku di IKN** | HEC-ResSim, Operasi Waduk | Tania Nur Maulidya | **Diambil** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_2) |
+| **5** | **Kajian Potensi Coastal Reservoir sebagai Alternatif Sumber Air Baku Kota Balikpapan** | Delft3D / Delft3D-FM, Pemodelan Hidrodinamika | Rohim | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_3) |
+| **6** | **Analisis Konsentrasi dan Distribusi Sedimen di Muara Sungai Riko** | Pengukuran Lapangan, GIS, Delft3D / Delft3D-FM | Belum dibuka | **Hold** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_4) |
+| **7** | **Analisis Potensi Erosi dan Sedimentasi Hilir Sungai Mahakam akibat Perubahan Debit pada Kondisi Kekeringan** | HEC-RAS 2D, Delft3D / Delft3D-FM, GIS | ? | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_5) |
+| **8** | **Analisis Erosi Sedimentasi di Sekitar Pilar Jembatan Pulau Balang** | Delft3D | Danu Dzakwan D. | **Tersedia** | [Lihat Deskripsi Penelitian →](YOUR_GOOGLE_DRIVE_LINK_6) |
+
 
 ---
 ### Research Areas
